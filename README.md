@@ -4,6 +4,7 @@
 - 💞️ Pentest - Smart contracts audits
 - 📫 Reach me: https://www.linkedin.com/in/enderphan/
 - 📫 My blogs: http://enderspub.gitbook.io/
+- My Resume: https://enderphan.info/
 
 **Projects:** :file_cabinet:
 
