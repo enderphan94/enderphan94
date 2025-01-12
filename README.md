@@ -7,6 +7,7 @@
 - [Kuberscan.com](https://kuberscan.com)
 - [vnstock.enderphan.info](https://vnstock.enderphan.info)
 - [CryptoSignal](https://t.me/+TY4CwLSzd_Q3MzBl)
+- [Research](https://enderspub.kubertu.com/)
 
 **Pentest Tools:**
 1. Blockchain Tools:
