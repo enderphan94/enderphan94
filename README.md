@@ -13,6 +13,7 @@
 1. Blockchain Tools:
 - [SolidityScan](https://github.com/enderphan94/Solai) : Audit Solidity code with AI
 - [Linty](https://github.com/enderphan94/linty) : Check for code linter in Solidity
+- [Solidity](https://github.com/enderphan94/solidity-pentest): Guidelines & Research
 
 2. Web Pentest tools:
 - [Takover](https://github.com/enderphan94/takovery) : Find domains takeover vulnerability
