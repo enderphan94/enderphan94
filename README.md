@@ -22,7 +22,7 @@
 
 
 3. Mobile Pentest tools:
-- [Andum](https://github.com/enderphan94/andump): Android Data Forensic
+- [Andump](https://github.com/enderphan94/andump): Android Data Forensic
 
 4. Windows Active Directory:
 - [SyncData](https://github.com/enderphan94/Syncing-Data-With-Hidden-Credentials) : Maps data out from AD Groups and external input
