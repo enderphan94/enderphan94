@@ -4,7 +4,6 @@
 - [Kubertu.com](https://kubertu.com)
 
 **Web Products:**
-- [Kuberscan.com](https://kuberscan.com)
 - [vnstock.enderphan.info](https://vnstock.enderphan.info)
 - [CryptoSignal](https://t.me/+TY4CwLSzd_Q3MzBl)
 - [Research](https://enderspub.kubertu.com/)
@@ -16,10 +15,10 @@
 - [Solidity](https://github.com/enderphan94/solidity-pentest): Guidelines & Research
 
 2. Web Pentest tools:
+- [Webcsanner](https://github.com/enderphan94/pikascan) : Find client-side vulnerability
 - [Takover](https://github.com/enderphan94/takovery) : Find domains takeover vulnerability
 - [WebPackScan](https://github.com/enderphan94/WebPackScan) : Find NPM packages vulnerability
 - [BlindSQL](https://github.com/enderphan94/Blind-MySQL-Injection-Using-Bit-Shifting): Blind SQL with Bit-Shifting
-
 
 3. Mobile Pentest tools:
 - [Andump](https://github.com/enderphan94/andump): Android Data Forensic
@@ -38,3 +37,6 @@
 7. AI Projects:
 - [LLM](https://github.com/enderphan94/LLM): AI development and Research
 - [YoutubeSum](https://github.com/enderphan94/youtube-sum): Auto correct and summarize youtube videos
+
+8. Claude Plugins:
+- [Webscanner](https://github.com/enderphan94/web_scan): Find client-side vulnerability
