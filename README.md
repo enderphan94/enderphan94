@@ -1,7 +1,7 @@
 👋 Hi, I’m Ender
 
-**Our team**
-- [Kubertu.com](https://kubertu.com)
+**My Place**
+- [Kuberscan.com](https://kuberscan.com)
 
 **Web Products:**
 - [CryptoSignal](https://t.me/+TY4CwLSzd_Q3MzBl)
