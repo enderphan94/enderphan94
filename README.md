@@ -7,7 +7,7 @@
 - [CryptoSignal](https://t.me/+TY4CwLSzd_Q3MzBl)
 - [Research](https://enderspub.kubertu.com/)
 - [FoodFinder](https://angi.day/)
-- [YouGist] (https://yougist.kuberscan.com/)
+- [YouGist](https://yougist.kuberscan.com/)
   
 **Pentest Tools:**
 1. Blockchain Tools:
